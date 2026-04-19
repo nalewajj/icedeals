@@ -1,4 +1,5 @@
-import "./globals.css";
+<a href="/login" className="font-semibold">Logowanie</a>
+<a href="/register" className="font-semibold">Rejestracja</a>import "./globals.css";
 
 export const metadata = {
   title: "IceDeals",
